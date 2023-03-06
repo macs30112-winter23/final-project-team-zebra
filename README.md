@@ -84,6 +84,13 @@ Find the detailed documentation regarding the project under the [**Documentation
 * Lastly, the [**Trial Code**](https://drive.google.com/drive/u/0/folders/1othf4h7ld2uXpsb_q6S0AaLKvPUMvEXb) folder has some Jupyter Notebooks from the initial phases of the project where we explored some of the tasks we have carried out in this project.
 * You may refer to the [**requirements.txt**](https://github.com/macs30112-winter23/final-project-team-zebra/blob/main/Documentation/requirements.txt) file under the [**Documentation**](https://github.com/macs30112-winter23/final-project-team-zebra/tree/main/Documentation) folder for system requirements that may be needed to run the code. 
 
+## Roles and Responsibilities 
+* **Bhavya Pandey**: Twitter scraping and implementing sentiment analysis, literature review, documentation, interpretation and presentation of the analysis 
+* **Wenhao Li**: Data visualization and interpretation, documentation
+* **Xiaochen Ding**: NYT scraping and implementation of sentiment analysis, data visualization
+* **Xiaowei Guo**: Twitter scraping and implementing sentiment analysis, data visualization and interpretation
+
+
 ### Thanks for visiting our repository!
 
 
