@@ -37,7 +37,7 @@ We scrape data from Twitter and the New York Times to carry out a sentiment anal
 
 ## List of Data Sources
 
-*Further details regarding these, as well as the project (with feedback incorporated) can be found in the updated project report [here](https://github.com/macs30112-winter23/final-project-team-zebra/blob/main/Documentation/FinalReport_TEAMZEBRA.docx.pdf), the updated project slides [here](https://github.com/macs30112-winter23/final-project-team-zebra/blob/main/Documentation/vfSlides_Final%20Project.pdf), and the project video [here].*
+*Further details regarding these, as well as the project (with feedback incorporated) can be found in the updated project report [here](https://github.com/macs30112-winter23/final-project-team-zebra/blob/main/Documentation/FinalReport_TEAMZEBRA.docx.pdf), the updated project slides [here](https://github.com/macs30112-winter23/final-project-team-zebra/blob/main/Documentation/vfSlides_Final%20Project.pdf), and the project video [here](https://www.youtube.com/watch?v=tsqbkxdCCEU).*
 
 Data Source 1: Pregnancies, Births and Abortions in the United States: National and State Trends
 * Type of data collection: downloading open source data by the Guttmacher Institute available [here](https://osf.io/kthnf/)
@@ -90,9 +90,14 @@ Find the detailed documentation regarding the project under the [**Documentation
 * **Xiaochen Ding**: NYT scraping and implementation of sentiment analysis, data visualization
 * **Xiaowei Guo**: Twitter scraping and implementing sentiment analysis, data visualization and interpretation
 
+## Important Links 
+### Updated project report [here](https://github.com/macs30112-winter23/final-project-team-zebra/blob/main/Documentation/FinalReport_TEAMZEBRA.docx.pdf)
+### Updated project slides [here](https://github.com/macs30112-winter23/final-project-team-zebra/blob/main/Documentation/vfSlides_Final%20Project.pdf)
+### Project video [here](https://www.youtube.com/watch?v=tsqbkxdCCEU)
 
-### Thanks for visiting our repository!
 
+
+### Thank you for visiting our project repository!
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
