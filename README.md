@@ -20,7 +20,9 @@ With the multitude of opinions in popular media and on social media, our project
 
 Based on social science research in the past, we *hypothesized* that social media tends to amplify extreme views on abortion. On the other hand, popular media, such as newspapers like The New York Times, tend to present a more nuanced view of abortion. We expect a similar result after carrying out a ‘sentiment analysis’ on both sources (more details on this follow). While media outlets may have their own editorial biases, they often present a range of perspectives on the issue of abortion and the various political and social factors that contribute to it.
 
-We scrape data from Twitter and the New York Times to carry out a sentiment analysis (through the pre-trained [RoBERTa-Base Model](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment)) to gather insights and provide answers to these questions.
+We scrape data from Twitter and the New York Times to carry out a sentiment analysis (through the pre-trained [RoBERTa-Base Model](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment)) to gather insights and provide answers to these questions. 
+
+We also compare and contrast the efficacy of this model as opposed to another sentiment classifier (that makes use of the `nltk` Python library), visualize the descriptive statistics of our analysis, and create interactive visualizations (word clouds and maps) based on our analysis.
 
 ### Main Findings
 
