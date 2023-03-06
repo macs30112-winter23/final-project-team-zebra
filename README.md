@@ -37,7 +37,7 @@ We scrape data from Twitter and the New York Times to carry out a sentiment anal
 
 ## List of Data Sources
 
-*Further details regarding these, as well as the project (with feedback incorporated) can be found in the updated project report here, the updated project slides here, and the project video here.*
+*Further details regarding these, as well as the project (with feedback incorporated) can be found in the updated project report [here](https://github.com/macs30112-winter23/final-project-team-zebra/blob/main/Documentation/FinalReport_TEAMZEBRA.docx.pdf), the updated project slides [here](https://github.com/macs30112-winter23/final-project-team-zebra/blob/main/Documentation/vfSlides_Final%20Project.pdf), and the project video [here](https://drive.google.com/drive/u/0/folders/1othf4h7ld2uXpsb_q6S0AaLKvPUMvEXb).*
 
 Data Source 1: Pregnancies, Births and Abortions in the United States: National and State Trends
 * Type of data collection: downloading open source data by the Guttmacher Institute available [here](https://osf.io/kthnf/)
