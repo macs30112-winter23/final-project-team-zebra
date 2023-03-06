@@ -85,7 +85,7 @@ Find the detailed documentation regarding the project under the [**Documentation
 * Move on to the [**NYT_DataProcessing_and_Analysis**](https://github.com/macs30112-winter23/final-project-team-zebra/tree/main/NYT_DataProcessing_and_Analysis) folder which has one Jupyter Notebook that does the same steps for the New York Times data.
 * The [**Data_Files**](https://github.com/macs30112-winter23/final-project-team-zebra/tree/main/Data_Files) folder collates all the collected and processed data used for this project.
 * The [**DataAnalysis_and_Visualization**](https://github.com/macs30112-winter23/final-project-team-zebra/tree/main/DataAnalysis_and_Visualization) folder carries a Jupyter Notebook which creates the final visualizations for the project. 
-* Lastly, the [**Trial Code**](https://drive.google.com/drive/u/0/folders/1othf4h7ld2uXpsb_q6S0AaLKvPUMvEXb) folder has some Jupyter Notebooks from the initial phases of the project where we explored some of the tasks we have carried out in this project.
+* Lastly, the [**Trial_Code**](https://drive.google.com/drive/u/0/folders/1othf4h7ld2uXpsb_q6S0AaLKvPUMvEXb) folder has some Jupyter Notebooks from the initial phases of the project where we explored some of the tasks we have carried out in this project.
 * You may refer to the [**requirements.txt**](https://github.com/macs30112-winter23/final-project-team-zebra/blob/main/Documentation/requirements.txt) file under the [**Documentation**](https://github.com/macs30112-winter23/final-project-team-zebra/tree/main/Documentation) folder for system requirements that may be needed to run the code. 
 
 ## Roles and Responsibilities 
