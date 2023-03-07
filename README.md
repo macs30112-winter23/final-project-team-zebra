@@ -11,7 +11,7 @@ Social science research suggests that views about abortion can differ on social 
 
 The question of whether abortion should be legal or not has led to the creation of two main groups: pro-choice and prolife. However, just recently, the Supreme Court of the United States (SCOTUS) officially overturned the Roe vs. Wade case on June 24, 2022. The Roe vs. Wade case first appeared in court in 1973 and was a landmark decision that stated that the Constitution of the United States granted citizens the right to an abortion. However, with the recent overturning, abortion rights are now decided by each individual state on whether it is a right or not.
 
-With the multitude of opinions in popular media and on social media, our project seeks answer to the following questions:
+With the multitude of opinions in popular media and on social media, our project seeks answers to the following questions:
 * How are people reacting to the topic of abortion online, particularly on Twitter?
 * Are there any geospatial trends in where Tweets are posted from? Can we group states by their views on social media?
 * What are the views being expressed through popular media, such as newspapers like the New York Times? Are views in popular media ‘milder’ (more neutral) than those on social media?
@@ -24,7 +24,7 @@ Based on social science research in the past, we *hypothesized* that social medi
 
 We scrape data from Twitter and the New York Times to carry out a sentiment analysis (through the pre-trained [RoBERTa-Base Model](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment)) to gather insights and provide answers to these questions. 
 
-We also compare and contrast the efficacy of this model as opposed to another sentiment classifier (that makes use of the `nltk` Python library), visualize the descriptive statistics of our analysis, and create interactive visualizations (word clouds and maps) based on our analysis.
+We also compare and contrast the efficacy of this model as opposed to another sentiment classifier (that makes use of the `nltk` Python library), visualize the descriptive statistics of our analysis, and create interactive visualizations (word cloud and maps) based on our analysis.
 
 ### Main Findings
 
