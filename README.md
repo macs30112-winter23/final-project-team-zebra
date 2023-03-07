@@ -46,12 +46,12 @@ We also compare and contrast the efficacy of this model as opposed to another se
 Data Source 1: Pregnancies, Births and Abortions in the United States: National and State Trends
 * Type of data collection: downloading open source data by the Guttmacher Institute available [here](https://osf.io/kthnf/)
 * Time frame: 1988 to 2017
-* Size of the dataset: ~ 1000 observations across states over the years
+* Size of the dataset: ~1000 observations across states over the years
 
 Data Source 2: Tweets related to abortion views
 * Type of data collection: scraping using a Python library called `snscrape` that allows us to scrape Tweets by defining key words, time periods, geographical information and other advanced search parameters
 * Time frame: January 2022 to January 2023
-* Size of the dataset: ~ 8500 Tweets 
+* Size of the dataset: ~8500 Tweets 
 
 Data Source 3: New York Times articles related to abortion
 * Type of data collection: web scraping by integrating the NYT API
