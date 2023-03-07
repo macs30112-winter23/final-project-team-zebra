@@ -81,7 +81,7 @@ Data Source 3: New York Times articles related to abortion
 
 ## Navigating this Repository 
 Find the detailed documentation regarding the project under the [**Documentation**](https://github.com/macs30112-winter23/final-project-team-zebra/tree/main/Documentation) folder. Follow this order of steps to replicate the code:
-* Beging with the [**Twitter_DataProcessing_and_Analysis**](https://github.com/macs30112-winter23/final-project-team-zebra/tree/main/Twitter_DataProcessing_and_Analysis) folder which has two Jupyter Notebooks (Part I and Part II) that carry out the data collection, cleaning/wrangling, analysis, and some basic visualizations for the Tweets.
+* Begin with the [**Twitter_DataProcessing_and_Analysis**](https://github.com/macs30112-winter23/final-project-team-zebra/tree/main/Twitter_DataProcessing_and_Analysis) folder which has two Jupyter Notebooks (Part I and Part II) that carry out the data collection, cleaning/wrangling, analysis, and some basic visualizations for the Tweets.
 * Move on to the [**NYT_DataProcessing_and_Analysis**](https://github.com/macs30112-winter23/final-project-team-zebra/tree/main/NYT_DataProcessing_and_Analysis) folder which has one Jupyter Notebook that does the same steps for the New York Times data.
 * The [**Data_Files**](https://github.com/macs30112-winter23/final-project-team-zebra/tree/main/Data_Files) folder collates all the collected and processed data used for this project.
 * The [**DataAnalysis_and_Visualization**](https://github.com/macs30112-winter23/final-project-team-zebra/tree/main/DataAnalysis_and_Visualization) folder carries a Jupyter Notebook which creates the final visualizations for the project. 
